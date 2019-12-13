@@ -1,0 +1,8 @@
+.TripList {
+  display: flex;
+  flex-direction: row;
+}
+
+div {
+  margin: 3px;
+}

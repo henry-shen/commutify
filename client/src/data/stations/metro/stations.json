@@ -1,0 +1,145 @@
+[
+ {
+   "stop_id": 2155384,
+   "stop_name": "Tallawong Station",
+   "stop_lat": -33.69163,
+   "stop_lon": 150.906022,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 2155383,
+   "stop_name": "Rouse Hill Station",
+   "stop_lat": -33.691986,
+   "stop_lon": 150.924306,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 2155382,
+   "stop_name": "Kellyville Station",
+   "stop_lat": -33.713514,
+   "stop_lon": 150.935304,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 2153478,
+   "stop_name": "Bella Vista Station",
+   "stop_lat": -33.730592,
+   "stop_lon": 150.944024,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 2153477,
+   "stop_name": "Norwest Station",
+   "stop_lat": -33.734348,
+   "stop_lon": 150.963846,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 2154392,
+   "stop_name": "Hills Showground Station",
+   "stop_lat": -33.72782,
+   "stop_lon": 150.987345,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 2154391,
+   "stop_name": "Castle Hill Station",
+   "stop_lat": -33.731485,
+   "stop_lon": 151.007809,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 2126158,
+   "stop_name": "Cherrybrook Station",
+   "stop_lat": -33.736703,
+   "stop_lon": 151.031977,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 212110,
+   "stop_name": "Epping Station",
+   "stop_lat": -33.772841,
+   "stop_lon": 151.082177,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 211310,
+   "stop_name": "Macquarie University Station",
+   "stop_lat": -33.777413,
+   "stop_lon": 151.118187,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 211340,
+   "stop_name": "Macquarie Park Station",
+   "stop_lat": -33.785013,
+   "stop_lon": 151.128641,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 211320,
+   "stop_name": "North Ryde Station",
+   "stop_lat": -33.794422,
+   "stop_lon": 151.13794,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ },
+ {
+   "stop_id": 206710,
+   "stop_name": "Chatswood Station",
+   "stop_lat": -33.797134,
+   "stop_lon": 151.180821,
+   "location_type": 1,
+   "parent_station": "",
+   "wheelchair_boarding": 1,
+   "platform_code": "",
+   "stop_timezone": "Australia/Sydney"
+ }
+]
